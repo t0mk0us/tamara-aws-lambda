@@ -1,0 +1,7 @@
+com\tamara\aws\AppControlEndpoint.class
+com\tamara\aws\AwsLambdaApp.class
+com\tamara\aws\handler\HelloLambdaHandler.class
+com\tamara\aws\handler\package-info.class
+com\tamara\aws\model\User.class
+com\tamara\aws\package-info.class
+com\tamara\aws\handler\WebServiceHandler.class
